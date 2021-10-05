@@ -1,0 +1,11 @@
+
+h1{
+    margin-left: 281px;
+}
+
+
+section.col-12{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
